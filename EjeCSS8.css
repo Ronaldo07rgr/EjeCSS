@@ -1,0 +1,32 @@
+.s1 {
+    width: 40%;
+    height: 100%;
+    margin: auto; 
+    margin-top: 100px;
+    border-radius: 10px;
+    background: rgba(34,34,34,0.75);
+    background-color: rgba(0,0,0,0.1);
+    box-shadow: 14px 20px 50px #000;
+}
+
+ul.a {
+    margin-left: 70%;
+    list-style-image: url("https://c.tenor.com/uWkxX12tIP0AAAAC/dragon-ball-z-son-goku.gif");
+}
+
+.s2 {
+    width: 40%;
+    height: 100%;
+    margin: auto; 
+    margin-top: 100px;
+    border-radius: 10px;
+    background: rgba(34,34,34,0.75);
+    background-color: rgba(0,0,0,0.1);
+    box-shadow: 14px 20px 50px #000;
+}
+
+ul.b {
+    margin-top: 10px;
+    margin-left: 70%;
+    list-style-image: url('https://64.media.tumblr.com/014d96db32192af3e525172c7f54a620/tumblr_o2nu2x4otV1u52r61o1_500.gif');
+}

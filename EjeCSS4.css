@@ -1,0 +1,140 @@
+h1 {
+    color: darkblue;
+    text-align: center;
+   
+}
+
+#uno {
+    color: greenyellow;
+    text-align: left;
+   
+}
+
+.uno {
+    color:red;
+    text-align: right;
+
+}
+
+#dos {
+    text-indent: 1px;
+
+}
+
+#tres {
+    text-indent: 10%;
+}
+
+#cuatro {
+    text-indent: 20%;
+}
+
+#cinco {
+    text-indent: 30%;
+}
+
+#seis {
+    text-indent: 40%;
+}
+
+#siete {
+    text-indent: 50%;
+}
+
+#ocho {
+    text-decoration: overline;
+}
+
+#nueve {
+    text-decoration: line-through;
+}
+
+#diez {
+    letter-spacing: 10px;
+    
+}
+
+#once {
+    word-spacing: 20px;
+
+}
+
+#doce {
+    text-transform: capitalize;
+}
+
+#trece {
+    text-transform: uppercase;
+}
+
+#catorce {
+    text-transform: lowercase;
+}
+
+#quince {
+    line-height: 150px;
+    text-transform: uppercase;
+}
+
+#dieciseis {
+    vertical-align: top;
+    vertical-align: sub;
+    vertical-align: super;
+    vertical-align: valor;
+}
+
+#diesisiete {
+    vertical-align: middle;
+}
+
+#dieciocho {
+    vertical-align: baseline;
+}
+
+#diecinueve {
+    vertical-align: bottom;
+}
+
+#veinte {
+    vertical-align: sub;
+}
+
+#veintiuno {
+    vertical-align: super;
+}
+
+#veintidos {
+    vertical-align: valor;
+}
+
+.a {
+    vertical-align: baseline;
+}
+.b {
+    vertical-align: sub;
+}
+
+.c {
+    vertical-align: super;
+}
+
+.d {
+    vertical-align: -10px;
+}
+
+td {
+   height: 100px; border: 1px solid blue;
+}
+
+.aa {
+   vertical-align: top;
+}
+
+.bb {
+   vertical-align: middle;
+}
+
+.cc {
+   vertical-align: bottom;
+}
+

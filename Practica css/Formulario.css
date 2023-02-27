@@ -1,0 +1,22 @@
+.Formulario {
+    width: 400px;
+    height: 650px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-family: Arial;
+    box-shadow: 14px 20px 50px ;
+}
+
+.Registro {
+    font-family: Arial;
+    font-size: 12pt;
+    margin-bottom: 20px;
+    text-align: center;
+
+    
+    padding: 12px;
+    border-radius: 10px;
+    color: #000;
+}

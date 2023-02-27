@@ -1,0 +1,16 @@
+.Tabla1{
+    border-collapse: separate;
+}
+
+.Tabla2 {
+    background: rgba(34,34,34,0.50);
+    border-collapse: collapse;
+    
+    
+}
+
+tr, td, th {
+    border: 1px solid gray;
+}
+
+

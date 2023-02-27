@@ -1,0 +1,38 @@
+body {
+    background-color: whitesmoke;
+}
+
+ul{
+    list-style: none;
+   
+}
+
+ul li{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+ul li:first-child{
+    background-color: #ff0000;
+}
+
+ul li:nth-child(2){
+    background-color: #ff000080;
+}
+
+ul li:nth-child(3){
+    background-color: #ff000060;
+}
+
+ul li:nth-child(4){
+    background-color: #ff000040;
+}
+
+ul li:nth-child(5){
+    background-color: #ff000020;
+}
+
+ul li:nth-child(6){
+    background-color: #ff000010;
+}

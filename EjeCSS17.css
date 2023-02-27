@@ -1,0 +1,18 @@
+.Tabla1 {
+   border-collapse: separate; border-spacing: 50px 10px;
+}
+
+.Tabla2 {
+   border-collapse: collapse; border-spacing: 40px;
+}
+/*border-spacing solo tinen efecto cundo border-collapse: separate;*/ 
+
+.Tabla3 {
+   border-spacing: 0;
+}
+/*border-spacing: 0 es igual que border-collapse:collapse*/
+
+td,tr,th{
+   border: 1px solid plum;
+}
+

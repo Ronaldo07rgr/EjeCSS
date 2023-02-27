@@ -1,0 +1,15 @@
+.Tabla1 {
+   empty-cells: hide;
+}
+
+.Tabla2 {
+   empty-cells: show;
+}
+
+.Tabla3 {
+   empty-cells: hide; border-collapse: collapse;
+}
+
+td, th {
+   border: 1px solid black;
+}

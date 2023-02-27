@@ -1,0 +1,15 @@
+.cir {
+    list-style-type: circle;
+}
+
+.cua {
+    list-style-type: square;
+}
+
+.num {
+    list-style-type: upper-roman;
+}
+
+.nume {
+    list-style-type: lower-alpha;
+}
